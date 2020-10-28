@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**yan3321/yan3321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About
+Hey there, I'm Tan Jun Yan, but I usually go by Yan! I'm a Malaysian currently studying IT and software engineering.  
+Even though my focus is around code and tech, I actually consider myself extremely versatile, a "jack of all trades" if you wish.  
+I've dabbled in graphic design, video editing, 3D art, social media management, and a lot more!  
+If you're in need of a Swiss army knife in the shape of a human, you've come to the right place.
 
-Here are some ideas to get you started:
+# Job availability
+I'm currently looking for an internship opportunity in tech in 2021.  
+Let me know if you're interested! I am very excited to offer my vast skillset to your business.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Contact
+Feel free to reach me via my email, yan@yan3321.com.
