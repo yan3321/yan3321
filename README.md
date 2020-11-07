@@ -11,24 +11,20 @@ I'm a Malaysian currently pursuing a diploma in ICT and software engineering at 
 
 ### Libramex
 
-*University Assignment*  
 A web-based library management system (LMS) for educational institutions.  
 Being developed as part of a university assignment with 2 other skilled coursemates.
 
 ### Vezel
 
-*University Assignment*  
 An AI chatbot solely focused on transport in biology, another university assignment.  
 Working on it with the same 2 coursemates!
 
 ### Apudis
 
-*Personal Project*  
 A Discord bot I'm developing to make use of my university's app API, providing quality of life features like exam result updates. <sup>*honestly i should make PRs on their app instead of hacking together my own solutions*</sup>
 
 ### rocessorise
 
-*Personal Project*  
 Another Discord bot! This one uses Canvas to generate customised virtual clothing for Roblox characters.
 
 ---
