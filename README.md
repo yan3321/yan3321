@@ -1,13 +1,14 @@
 # About
 
+![currentProjects](./img/ProfileShot_128.png)  
+[![currentProjects](./img/Icon_LinkedIn.png)](https://linkedin.com/in/yan3321) [![currentProjects](./img/Icon_Behance.png)](https://behance.net/yan3321)
+
 Hey there, I'm Tan Jun Yan, but I usually go by Yan!  
 I'm a Malaysian currently pursuing a diploma in ICT and software engineering at Asia Pacific University.  
 
----
-
 ## Projects
 
-![currentProjects](./img/CurrentProjects_yan3321.png)
+![currentProjects](./img/CurrentProjects_128.png)
 
 ### Libramex
 
@@ -27,14 +28,10 @@ A Discord bot I'm developing to make use of my university's app API, providing q
 
 Another Discord bot! This one uses Canvas to generate customised virtual clothing for Roblox characters.
 
----
-
 ## Job availability
 
 I'm currently looking for an internship opportunity in tech in 2021.  
 Let me know if you're interested! I am very excited to offer my vast skillset to your business.
-
----
 
 ## Contact
 
