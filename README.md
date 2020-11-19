@@ -1,6 +1,5 @@
 # About
 
-![currentProjects](./img/ProfileShot_128.png)  
 [![currentProjects](./img/Icon_LinkedIn.png)](https://linkedin.com/in/yan3321) [![currentProjects](./img/Icon_Behance.png)](https://behance.net/yan3321)
 
 Hey there, I'm **Tan Jun Yan**, but I usually go by **Yan**!  
