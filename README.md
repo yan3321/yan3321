@@ -11,7 +11,7 @@ I'm a Malaysian guy currently pursuing a diploma in ICT and software engineering
 
 ### Libramex
 
-A web-based library management system (LMS) for educational institutions.  
+A web-based library management system (LMS) for educational institutions. Written in HTML/CSS/JS and PHP. 
 Being developed as part of a university assignment with 2 other skilled coursemates.
 
 ### Vezel
