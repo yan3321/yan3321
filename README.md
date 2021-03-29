@@ -29,9 +29,7 @@ Another Node.JS Discord bot! This one uses Canvas to generate customised virtual
 
 ## Job availability
 
-I'm currently looking for an internship opportunity in Malaysia!  
-Preferably in IT/SWE, but I'm also open to design, social media management, etc.  
-Available for an 8 week term, from 2021-04-05 to 2021-05-28 (that's in ISO 8601!)
+If you're looking for a developer that can start from June 2021, I'm your guy! Let's get in touch (email below).
 
 ## Contact
 
