@@ -29,7 +29,7 @@ Another Node.JS Discord bot! This one uses Canvas to generate customised virtual
 
 ## Job availability
 
-If you're looking for a developer that can start from June 2021, I'm your guy! Let's get in touch (email below).
+I'm currently employed full-time as a software developer, but I'm happy to discuss any work that does not pose a conflict of interest with my current employer(s). Let's get in touch!
 
 ## Contact
 
