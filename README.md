@@ -3,21 +3,21 @@
 [![currentProjects](./img/Icon_LinkedIn.png)](https://linkedin.com/in/yan3321) [![currentProjects](./img/Icon_Behance.png)](https://behance.net/yan3321)
 
 Hey there, I'm **Tan Jun Yan**, but I usually go by **Yan**!  
-I'm a Malaysian guy currently pursuing a diploma in ICT and software engineering at Asia Pacific University (APU).  
+I'm a Malaysian dude that markets myself as a developer, designer, and voice artist.  
+I currently work as a full-time Software Developer with FashionValet.  
+I previously pursued a diploma in ICT and software engineering at Asia Pacific University (APU), and currently awaiting graduation.  
 
-## Current Projects
+## Former Projects
 
 ![currentProjects](./img/CurrentProjects_128.png)
 
 ### Libramex
 
 A web-based library management system (LMS) for educational institutions. Written in HTML/CSS/JS and PHP. 
-Being developed as part of a university assignment with 2 other skilled coursemates.
 
 ### Vezel
 
 An AI chatbot solely focused on transport in biology, another university assignment.  
-Working on it with the same 2 coursemates!
 
 ### Apudis
 
