@@ -2,12 +2,17 @@
 
 [![currentProjects](./img/Icon_LinkedIn.png)](https://linkedin.com/in/yan3321) [![currentProjects](./img/Icon_Behance.png)](https://behance.net/yan3321)
 
-Hey there, I'm **Tan Jun Yan**, but I usually go by **Yan**!  
-I'm a Malaysian dude that markets myself as a developer, designer, and voice artist.  
-I currently work as a full-time Software Developer with FashionValet.  
-I previously pursued a diploma in ICT and software engineering at Asia Pacific University (APU), and currently awaiting graduation.  
+Hiya! I'm **Tan Jun Yan**, but I usually go by **Yan**. Developer, designer, aspiring voice artist.  
+Full-time Software Developer with FashionValet, part-time game developer and tinkerer.  
 
-## Former Projects
+## Education and Professional Qualifications
+- Diploma in Information and Communications Technology with specialism in Software Engineering, Asia Pacific University of Technology and Innovation
+- Qualified Technician, Malaysia Board of Technologists
+
+## Professional Projects
+- Technical Lead cum Lead Programmer, Maxis eKelas Minigames (2021)
+
+## University and Personal Projects
 
 ![currentProjects](./img/CurrentProjects_128.png)
 
