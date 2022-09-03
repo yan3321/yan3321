@@ -3,7 +3,7 @@
 [![currentProjects](./img/Icon_LinkedIn.png)](https://linkedin.com/in/yan3321) [![currentProjects](./img/Icon_Behance.png)](https://behance.net/yan3321)
 
 Hiya! I'm **Tan Jun Yan**, but I usually go by **Yan**. Developer, designer, aspiring voice artist.  
-Full-time Software Developer with FashionValet, part-time game developer and tinkerer.  
+Freelance web developer, Roblox game designer and tinkerer.  
 
 ## Education and Professional Qualifications
 - Diploma in Information and Communications Technology with specialism in Software Engineering, Asia Pacific University of Technology and Innovation
@@ -34,7 +34,7 @@ Another Node.JS Discord bot! This one uses Canvas to generate customised virtual
 
 ## Job availability
 
-I'm currently employed full-time as a software developer, but I'm happy to discuss any work that does not pose a conflict of interest with my current employer(s). Let's get in touch!
+I'm happy to discuss any work that does not pose a conflict of interest with any of my commitments. Let's get in touch!
 
 ## Contact
 
