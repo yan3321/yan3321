@@ -2,7 +2,7 @@
 
 [![currentProjects](./img/Icon_LinkedIn.png)](https://linkedin.com/in/yan3321) [![currentProjects](./img/Icon_Behance.png)](https://behance.net/yan3321)
 
-Hiya! I'm **Tan Jun Yan**, but I usually go by **Yan**. Developer, designer, aspiring voice artist.  
+Hiya! I'm **Tan Jun Yan**, but I usually go by **Yan**. Developer, designer, aspiring voice artist.
 Freelance web developer, Roblox game designer and tinkerer.  
 
 ## Education and Professional Qualifications
@@ -34,7 +34,7 @@ Another Node.JS Discord bot! This one uses Canvas to generate customised virtual
 
 ## Job availability
 
-I'm happy to discuss any work that does not pose a conflict of interest with any of my commitments. Let's get in touch!
+As an independent contractor, I'm happy to discuss any work that does not pose a conflict of interest with any of my commitments. Let's get in touch!
 
 ## Contact
 
