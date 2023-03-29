@@ -9,12 +9,19 @@ Freelance web developer, Roblox game designer and tinkerer.
 - Diploma in Information and Communications Technology with specialism in Software Engineering, Asia Pacific University of Technology and Innovation
 - Qualified Technician, Malaysia Board of Technologists
 
+## Employment
+- Product Developer, Sunago Education (2022 - Present)
+- Software Developer, FashionValet (2021 - 2022)
+
 ## Professional Projects
-- Technical Lead cum Lead Programmer, Maxis eKelas Minigames (2021)
+- Technical Lead cum Lead Programmer, Maxis eKelas Minigames (2021 - 2022)
 
 ## University and Personal Projects
 
 ![currentProjects](./img/CurrentProjects_128.png)
+
+### MYX Labs
+Useful web utilities for the MYS community, available as a PWA.
 
 ### Libramex
 
