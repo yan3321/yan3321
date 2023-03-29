@@ -20,7 +20,7 @@ Freelance web developer, Roblox game designer and tinkerer.
 
 ![currentProjects](./img/CurrentProjects_128.png)
 
-### MYX Labs
+### [MYX Labs](https://myx.yan.gg)
 Useful web utilities for the MYS community, available as a PWA.
 
 ### Libramex
