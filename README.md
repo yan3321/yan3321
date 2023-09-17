@@ -10,10 +10,11 @@ Freelance web developer, Roblox game designer and tinkerer.
 - Qualified Technician, Malaysia Board of Technologists
 
 ## Employment
-- Product Developer, Sunago Education (2022 - Present)
+- Product Developer, Sunago Education (2022 - 2023)
 - Software Developer, FashionValet (2021 - 2022)
 
-## Professional Projects
+## Professional and Experimental Projects
+- Senior Developer / Deputy Head Administrator, MYSverse (2023 - Present)
 - Technical Lead cum Lead Programmer, Maxis eKelas Minigames (2021 - 2022)
 
 ## University and Personal Projects
