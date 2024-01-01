@@ -3,19 +3,20 @@
 [![currentProjects](./img/Icon_LinkedIn.png)](https://linkedin.com/in/yan3321) [![currentProjects](./img/Icon_Behance.png)](https://behance.net/yan3321)
 
 Hiya! I'm **Tan Jun Yan**, but I usually go by **Yan**. Developer, designer, aspiring voice artist.
-Freelance web developer, Roblox game designer and tinkerer.  
+Web developer, Roblox game designer and all-around tinkerer.  
 
 ## Education and Professional Qualifications
 - Diploma in Information and Communications Technology with specialism in Software Engineering, Asia Pacific University of Technology and Innovation
 - Qualified Technician, Malaysia Board of Technologists
 
 ## Employment
+- Software Developer, Acquis (2023 - Present)
 - Product Developer, Sunago Education (2022 - 2023)
 - Software Developer, FashionValet (2021 - 2022)
 
-## Professional and Experimental Projects
-- Senior Developer / Deputy Head Administrator, MYSverse (2023 - Present)
-- Technical Lead cum Lead Programmer, Maxis eKelas Minigames (2021 - 2022)
+## Professional Projects
+- Co-founder / Senior Developer / Head Administrator, MYSverse (2023 - Present)
+- Technical Lead / Lead Programmer, Maxis eKelas Minigames (2021 - 2022)
 
 ## University and Personal Projects
 
